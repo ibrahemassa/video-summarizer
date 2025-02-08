@@ -34,7 +34,7 @@ ollama pull deepseek-r1:1.5b
 Run the script with a YouTube video URL:
 
 ```bash
-python video_summarizer.py "YOUTUBE_URL"
+python main.py "YOUTUBE_URL"
 ```
 
 The script will:
